@@ -17,6 +17,7 @@ Make sure to customize the starting letter template with the placeholder `[name]
 
 ## File Structure
 
+- `main.py`: Main program file to generate the invitations.
 - `PycharmProjects/24. Mail Merge/Input/Letters/starting_letter.txt`: The template file containing the starting letter with the placeholder `[name]`.
 - `PycharmProjects/24. Mail Merge/Input/Names/invited_names.txt`: The text file containing the list of names.
 - `PycharmProjects/24. Mail Merge/Output/ReadyToSend/invitation_card_[name].txt`: The generated invitation cards for each name, saved as individual text files.
